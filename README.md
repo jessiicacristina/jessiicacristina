@@ -9,10 +9,6 @@
 
 :rocket:  2021: Customer Xp | Niobe Squad.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessiicacristina&show_icons=true&hide=stars,issues&theme=dark)
-
-
-
 ## About me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/trallerd)
