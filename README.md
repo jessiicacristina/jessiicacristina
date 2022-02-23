@@ -7,7 +7,7 @@
 
 :iphone:  I’m currently using Flutter.
 
-:rocket:  2021: Customer Xp | Niobe Squad.
+:rocket:  2021: Customer Xp | Discovery Squad.
 
 ## About me
 
