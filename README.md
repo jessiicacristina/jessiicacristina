@@ -5,10 +5,6 @@
 
 :computer:  I'm Front-End Developer!
 
-:iphone:  I’m currently using Flutter.
-
-:rocket:  2021: Customer Xp | Discovery Squad.
-
 ## About me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/trallerd)
@@ -17,8 +13,6 @@
 
 
 - Thanks for visiting.
-
-- Enjoy it!! o/
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
